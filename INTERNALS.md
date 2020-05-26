@@ -307,7 +307,7 @@ generates the following JSON object describing the change:
        obj: '3a64c13f-c270-4af4-a733-abaadc5e7c46',     // UUID of the list object
        key: '_head',                                    // Insert at the beginning of the list
        elem: 1 },
-     { action: 'makeMap',                               // Make a map object to reprsent a card
+     { action: 'makeMap',                               // Make a map object to represent a card
        obj: '4f1cd0ee-3855-4b56-9b8d-85f88cd614e3' },   // New UUID for the card
      { action: 'set',                                   // Set the title of the card
        obj: '4f1cd0ee-3855-4b56-9b8d-85f88cd614e3',     // UUID of the card object
